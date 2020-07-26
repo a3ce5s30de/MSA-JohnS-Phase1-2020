@@ -1,7 +1,7 @@
 # MSA-JohnS-Phase1-2020
 
 ## Show SQL database through the Query editor (screenshots) for both tables with rows of example instances
-<br/>![image](img/Database-Tables .JPG)
+<br/>![image](img/Database-Tables.JPG)
 
 
 ## Create basic CRUD requests for the Student table
